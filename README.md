@@ -1,12 +1,4 @@
 # BankBot Using NLP and PyTorch
-* `Goal` → COVID-19 Spread Prevention
-* `Training Score` → Accuracy 98%
-* `Team` → Data Pirates🏴‍☠️
-
-__GO TO:__  [`Problem Description`](#ProblemDescription) 
-[`Library Used`](#Requirements) [`Team Member`](#Team-members)
-
----
 
 ## Introduction
 In this report, I have explained the implementation of the code and methods that I have used to build a BankBot.
@@ -18,13 +10,22 @@ In this project, the Bank Bot answers the basic queries related to the Bank, the
 
 ## Technologies used in the project -
 Python
+
 Pytorch
+
 NLP
+
 HTML
+
 CSS
+
 Javascript
+
 Pandas
+
 Numpy
+
 Matplotlib
+
 Seaborn
 
