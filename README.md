@@ -31,7 +31,7 @@ return bag of words array:
 With the help of these techniques the user will receive an appropriate response even when the user has a typo or asks a question in a different way ;)
 
 Here are some screenshots of the working of Bankbot -
-<img src="C:\Users\7XIN\Desktop\exampleSite\public\images\Bankbot1.png" width="300" height ="500">
+<img src="C:\Users\7XIN\Desktop\exampleSite\public\images\Bankbot1.png" width="300" height ="200">
 
  
  <!-- <img src="https://user-images.githubusercontent.com/67967781/138293539-a829234d-80ab-4634-92d4-cbf392405f9b.png" width="300" height ="500">
