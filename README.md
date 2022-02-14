@@ -31,7 +31,11 @@ return bag of words array:
 With the help of these techniques the user will receive an appropriate response even when the user has a typo or asks a question in a different way ;)
 
 Here are some screenshots of the working of Bankbot -
-
+<!-- <img src="C:\Users\7XIN\Desktop\exampleSite\public\images\Bankbot1.png" width="300" height ="500">
+ -->
+ 
+ <!-- <img src="https://user-images.githubusercontent.com/67967781/138293539-a829234d-80ab-4634-92d4-cbf392405f9b.png" width="300" height ="500">
+ -->
 Here we have used basic questions or queries to train our model for demonstration purpose. But questions can always be changed or upgraded by training the model with those questions.
 #### Training -
 The Pytorch Neural Network is used to train the model.
@@ -50,20 +54,27 @@ The following databases have been used-
 
 ## User Interface and Flask
 Website Home page
+<!-- <img src="https://user-images.githubusercontent.com/67967781/138293539-a829234d-80ab-4634-92d4-cbf392405f9b.png" width="300" height ="500">
+ -->
 
 Page 2 - Login Page
-
+<!-- <img src="https://user-images.githubusercontent.com/67967781/138293539-a829234d-80ab-4634-92d4-cbf392405f9b.png" width="300" height ="500">
+ -->
 Page 3
-
+<!-- <img src="https://user-images.githubusercontent.com/67967781/138293539-a829234d-80ab-4634-92d4-cbf392405f9b.png" width="300" height ="500">
+ -->
 This is the FAQs Page where one can access site information and interest rates provided by the bank.
 
 Page 4 - How the chatbot looks on our site.
-
+<!-- <img src="https://user-images.githubusercontent.com/67967781/138293539-a829234d-80ab-4634-92d4-cbf392405f9b.png" width="300" height ="500">
+ -->
 ## Dashboard
 The Dashboard has been created using Python Pandas, Matplotlib and Seaborn.
 
 Page 5
-
+<!-- <img src="https://user-images.githubusercontent.com/67967781/138293539-a829234d-80ab-4634-92d4-cbf392405f9b.png" width="300" height ="500">
+ -->
+ 
 The Dashboard will give all the details related to the Transaction history of the Account Holder. The name and Acoount ID is displayed on the top. The Transaction Details are analysed and displayed for the User to get quick glance on the information via different visualisations.  
 The Charts give data about the following-
 1. Balance Summary
